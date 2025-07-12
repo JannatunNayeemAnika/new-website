@@ -155,6 +155,7 @@ main{
     justify-content: space-between;
     text-align: center;
     margin-right: 120px;
+    gap: 150px;
     
    
 }
