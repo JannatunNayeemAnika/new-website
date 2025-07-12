@@ -1,0 +1,206 @@
+
+.raleway-normal> {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+header{
+    background-image:url(Hero-bg.png);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    text-align: center;
+    padding: 35px 20px 140px;
+    position: relative;
+}
+
+.button-design{
+    background-color:#4751FF;
+    font-weight: bold;
+    font-size:16px;
+    color: white;
+    padding:12px 36px;
+    border-radius: 10px;
+    border: none;
+}
+ul{
+    justify-content:space-between;
+    display:flex;
+    text-decoration: none;
+}
+nav ul{
+   list-style: none;
+
+}
+.styles{
+    color: #4751FF;
+}
+nav ul li a{
+    text-decoration: none;
+}
+.logo{
+    font-size: 34px;
+    font-weight:bold ;
+}
+.heading-tag{
+    font-size: 34px;
+    font-weight: bold;
+    padding-top: 130px;
+}
+.main-banner{
+    justify-content:space-between;
+    display:flex;
+    
+}
+.imge{
+    border-radius: 48px;
+}
+main{
+    padding:116px 159px 137px 141px;
+}
+.heading-banner{
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
+    margin-bottom: -10px;
+}
+.pragraph-banner{
+    font-size: 24px;
+    font-weight: normal;
+    color: #5f5f63;
+}
+.stats-section {
+    max-width: 1000px;
+    margin: 100px;
+    text-align: center;
+    padding: 40px 20px;
+    background-color:#cbc9f1;
+    border-radius: 20px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+
+}
+
+.stats-section h2 {
+    color: #333;
+    margin-bottom: 40px;
+    font-size: 28px;
+}
+
+.stats-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.stat-item {
+    flex: 1;
+    min-width: 150px;
+    padding: 20px;
+}
+
+.stat-number {
+    font-size: 42px;
+    font-weight: bold;
+    color: #4E47FF;
+    margin-bottom: 10px;
+}
+
+.stat-label {
+    font-size: 18px;
+    color: #747373;
+}
+.images-row{
+    display: flex;
+}
+.heading-part{
+    text-align: center;
+    justify-content: center;
+    color: #252432;
+    font-size: 42px;
+    font-weight: bold;
+}
+.heading-text{
+    font-size:15px;
+    font-weight: bold;
+    margin-top: 6px;
+}
+.text-one{
+    font-size:15px;
+    font-weight: normal;
+    margin-top: 6px;
+}
+.new-class{
+    display: flex ;
+  margin-top: 10px;
+  gap: 10px;
+}
+.imagenext{
+    border-radius: 20px;
+}
+
+.full-reviews{
+    display: flex;
+    justify-content:space-around;
+    margin-top: 50px;
+}
+.hello{
+    display:flex;
+    margin-top: 150px;
+    justify-content: space-between;
+    text-align: center;
+    margin-right: 120px;
+    
+   
+}
+.anotherhead{
+    font-size:80px;
+    font-weight: bold;
+    margin-left: 150px;
+    padding-top: 65px;
+    
+}
+.newform{
+    max-width: fit-content;
+}
+.form-group {
+    margin-bottom: 20px;
+}
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+textarea {
+    height: 100px;
+}
+.another-logo{
+    text-align: center;
+    justify-content: center;
+    font-size:50px ;
+    color:#4E47FF ;
+    margin-top: 100px;
+}
+.prara{
+    text-align: center;
+    justify-content: center;
+    font-size: 20;
+    color: #6f6f70;
+    margin-top: 15px;
+}
+.named{
+display: flex;
+justify-content: center;
+text-align: center;
+margin: 30px 452px;
+gap: 40px;
+color: #6f6f70;
+}
