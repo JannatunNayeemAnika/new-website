@@ -166,15 +166,18 @@ main{
     
 }
 .newform{
-    max-width: fit-content;
+    max-width: 600px;
+
 }
 .form-group {
     margin-bottom: 20px;
+    
 }
 label {
-    display: block;
+    display:block;
     margin-bottom: 5px;
     font-weight: bold;
+    text-align: left;
 }
 input, textarea {
     width: 100%;
@@ -183,6 +186,7 @@ input, textarea {
     border-radius: 4px;
     box-sizing: border-box;
 }
+
 textarea {
     height: 100px;
 }
