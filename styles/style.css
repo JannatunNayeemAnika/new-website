@@ -23,6 +23,10 @@ header{
     padding:12px 36px;
     border-radius: 10px;
     border: none;
+     transition: 0.3s;
+ }   
+.button-design:hover{
+    background: green;
 }
 ul{
     justify-content:space-between;
