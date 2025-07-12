@@ -180,7 +180,7 @@ label {
     text-align: left;
 }
 input, textarea {
-    width: 100%;
+    width: 300px;
     padding: 10px;
     border: 1px solid #ddd;
     border-radius: 4px;
